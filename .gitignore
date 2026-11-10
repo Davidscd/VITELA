@@ -1,0 +1,10 @@
+# Dependencias (se reconstruyen con npm install)
+node_modules/
+
+# Variables de entorno (nunca se suben)
+.env
+
+# Registros y archivos del sistema
+*.log
+.DS_Store
+Thumbs.db
